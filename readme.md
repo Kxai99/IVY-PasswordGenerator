@@ -2,7 +2,7 @@
 
 Thank you for using IVY Password Generator!
 
-Before using IVY Password Generator, please ensure that you have Python installed on your computer. If you don't have Python installed, you can download it from the official Python website: Download Python here: https://www.python.org/downloads/
+Before using IVY Password Generator, please ensure that you have Python installed on your computer. If you don't have Python installed, you can download it from the official Python website: https://www.python.org/downloads/
 
 ## Dependencies
 
